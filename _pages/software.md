@@ -1,11 +1,11 @@
 ---
 layout: page
 permalink: /posts/php/
-title: Posts about "PHP"
+title: Posts about "software"
 ---
 
 <div class="posts">
-  {% for post in site.categories['PHP'] %}
+  {% for post in site.categories.software %}
     <article class="post">
       <h1>
           <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
