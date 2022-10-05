@@ -8,7 +8,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 ---
 layout: post
 title: software guide
-categories: Software
+categories: oftware
 ---
 
 I love software very much
