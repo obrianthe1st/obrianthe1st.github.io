@@ -2,10 +2,17 @@
 layout: page
 permalink: /posts/software/
 title: Posts about software
+published: true
+---
+---
+layout: page
+permalink: /posts/software/
+title: Posts about "software"
 ---
 
+
 <div class="posts">
-  {% for post in site.categories.software %}
+  {% for post in site.categories["software"] %}
     <article class="post">
       <h1>
           <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
