@@ -2,9 +2,15 @@
 layout: page
 permalink: /posts/software/
 title: Posts about "software"
+published: true
 ---
 
 
+---
+layout: page
+permalink: /posts/software
+title: Posts about "software"
+---
 <div class="posts">
   {% for post in site.categories["software"] %}
     <article class="post">
@@ -23,4 +29,3 @@ title: Posts about "software"
     </article>
   {% endfor %}
 </div>
-
