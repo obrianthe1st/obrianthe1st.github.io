@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /posts/software/
-title: Posts about "software"
+title: Posts about software
 ---
 
 <div class="posts">
