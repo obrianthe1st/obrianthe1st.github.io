@@ -7,6 +7,8 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 ---
 layout: post
-title: New tech to organize your daily tasks.
-categories: Software engineer
+title: software guide
+categories: Software
 ---
+
+I love software very much
