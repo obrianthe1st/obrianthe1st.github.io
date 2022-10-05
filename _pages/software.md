@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /posts/php/
+permalink: /posts/software/
 title: Posts about "software"
 ---
 
