@@ -6,12 +6,6 @@ published: true
 ---
 
 
----
-layout: page
-permalink: /categories/
-title: categories
----
-
 
 <div id="archives">
 {% for category in site.categories %}
