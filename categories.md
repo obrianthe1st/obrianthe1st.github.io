@@ -9,7 +9,7 @@ published: true
 ---
 layout: page
 permalink: /categories/
-title: Categories
+title: categories
 ---
 
 
