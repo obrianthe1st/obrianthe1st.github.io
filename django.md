@@ -1,4 +1,8 @@
-
+---
+layout: posts
+permalink: /posts/django/
+title: Posts about "django"
+---
 
 <div class="posts">
   {% for post in site.categories["django"] %}
