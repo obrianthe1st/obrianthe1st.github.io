@@ -10,7 +10,7 @@ permalink: /posts/backend_development/
 title: Posts about "backend development"
 ---
 <div class="posts">
-  {% for post in site.categories["backend development"] %}
+  {% for post in site.categories["backend_development"] %}
     <article class="post">
       <h1>
           <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
