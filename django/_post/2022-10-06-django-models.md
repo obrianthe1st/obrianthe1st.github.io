@@ -1,7 +1,8 @@
 ---
 layout: post
-title: django models
+title: django/_posts/2022-10-06-django-models.md
 categories: django
+published: true
 ---
 
 
