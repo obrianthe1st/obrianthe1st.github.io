@@ -6,7 +6,7 @@ published: true
 ---
 ---
 layout: post
-permalink: /posts/backend development/
+permalink: /posts/backend_development/
 title: Posts about "backend development"
 ---
 <div class="posts">
