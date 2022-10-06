@@ -9,4 +9,21 @@ layout: post
 permalink: /posts/backend development/
 title: Posts about "backend development"
 ---
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+<div class="posts">
+  {% for post in site.categories["backend development"] %}
+    <article class="post">
+      <h1>
+          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      </h1>
+      <div>
+        <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
+      </div>
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">
+          Read More
+      </a>
+    </article>
+  {% endfor %}
+</div>
