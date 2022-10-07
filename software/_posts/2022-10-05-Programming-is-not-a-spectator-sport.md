@@ -1,6 +1,11 @@
 ---
 published: true
 ---
+-----------
+layout: posts
+categories: software
+----------
+
 I often see developers getting caught up in the cycle of watching endless amounts of tutorials online and not doing any actual programming. While doing it, it might feel like you are accomplishing something and sometimes you do but that is a very small portion of what is needed to become a proficient developer. 
 
 Courses are good in the beginning and it can be useful in specific circumstances especially if you are a visual learner, but you will reach a point of diminishing returns. No matter how many courses you watch you will have to get your hands dirty at some point  and often time early too in your learning process. 
