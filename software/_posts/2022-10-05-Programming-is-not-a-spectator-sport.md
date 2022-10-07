@@ -3,7 +3,7 @@ published: true
 ---
 -----------
 layout: post
-title:Programming is noy a spectator sport
+title:Programming is not a spectator sport
 categories: software
 ----------
 
