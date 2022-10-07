@@ -3,6 +3,7 @@ published: true
 ---
 -----------
 layout: post
+title:Programming is noy a spectator sport
 categories: software
 ----------
 
